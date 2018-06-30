@@ -1,11 +1,24 @@
 # Suppliers, hosts and contacts
 
 ## contact@lnug.org
-For any email correspondence with providers, please cc contact@lnug.org so others get a copy. If you want to be added to this address and receive a copy of correspondence - let @admataz know. 
+For any email correspondence with providers, please cc contact@lnug.org so others get a copy. If you want to be added to this address and receive a copy of correspondence - let me ([@admataz](https://github.com/admataz)) know. 
 
+## Venue
+We are not bound to any single host or venue - I think we should put effort into moving every 4-6 months  - and rotate the venues. 
 
-## Venue - Makers Academy
-We usually host our meetups at Makers Academy: 
+Currently we are hosted  at Condé Nast
+
+```
+ADELPHI BUILDING
+1-11 JOHN ADAM ST
+WC2N 6HT
+```
+Contact: 
+Michelle Garret [@msmichellegar](https://github.com/msmichellegar) 
+([Michelle 💅 (@msmichellegar) | Twitter](https://twitter.com/msmichellegar))
+ 
+
+We were also hosted for a long time at Makers Academy: 
 
 ```
 contact@makersacademy.com  
@@ -16,9 +29,8 @@ United Kingdom
 ```
 
 Our contacts:
-
-- Adam Turnbull <adam@makersacademy.com> - events coordinator. 
 - Will Bentinck <will@makersacademy.com> (Head of Careers) 
+- Camelia El Khalidy <camelia@makersacademy.com>
 
 -----
 
@@ -44,7 +56,7 @@ Contact Sam, and ask for confirmation. I usually just send a text message to him
 
 50 pizzas is usually enough for the 80-120 attendees we have
 
-Budget: £280 
+Budget: £280 - £300
 
 
 ```
