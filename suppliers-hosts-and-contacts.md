@@ -58,18 +58,20 @@ Contact Sam, and ask for confirmation. I usually just send a text message to him
 
 Budget: £280 - £300
 
+Remember to get confirmation - the message has been lost once or twice in the past. 
+
 
 ```
 Hi Sam. 
-Happy new year, I hope all is well with you?  we are back for our first meet up of 2018 on Wednesday 24th January 
+I hope all is well with you?  we are back for our meet up on Wednesday 24th January 
 
 can I please arrange pizza as usual for delivery on the night? the same as usual: 
 
-Makers Academy
-50-52 Commercial St
-E1 6LT
+ADELPHI BUILDING
+1-11 JOHN ADAM ST
+WC2N 6HT
 
-and can you please deliver in 2 batches, 18:30, and 19:30.  
+and can you please deliver at 19:00.  
 
 50 pizzas. 
 
@@ -87,38 +89,39 @@ Thanks, Adam.
 
 
 ### Beer and beverages
-I have a shopping list set up on Ocado for this - makes it easy for me. Here's my last order (Jan 2018) - also assuming about 80-120 people. I like to keep it varied - to account for all tastes and for the non-alcoholic drinkers and the craft beer fans alike - so feel free to mix it up. 
+I have a shopping list set up on Ocado for this - makes it easy for me. Here's my last order (March 2019) - also assuming about 80-120 people. I like to keep it varied - to account for all tastes and for the non-alcoholic drinkers and the craft beer fans alike - so feel free to mix it up. 
 
 Budget: £180-£200
 
  
 ```
-1x COCA-COLA 8x330ml
-1x DIET COKE 8x330ml
-1x OLD JAMAICA GINGER BEER DIET SLIM CAN 8x330ml
-1x SAN PELLEGRINO BLOOD ORANGE 6x330ml 
-1x SAN PELLEGRINO LEMON LIMONATA 6x330ml
+1 x COCA-COLA ORIGINAL TASTE 10x330ml
+1 x DIET COKE 8x330ml
+1 x SAN PELLEGRINO BLOOD ORANGE 6x330ml SAN PELLEGRINO LEMON 6x330ml
+1 x WHITE 2PLY PAPER NAPKINS, 16.5CM 125
 
-2x BIO PLASTIC TUMBLERS 27CL, CLEAR 10 (£1.60/ EACH)
-1x WHITE 2PLY PAPER NAPKINS, 33CM 125
-
-1x BAREFOOT MERLOT 75cl
-2x BECK'S BEER BOTTLES 12x275ml (£9.00/EACH)
-2x BREWDOG DEAD PONY CLUB 330ml (£1.80/EACH) 
-1x BREWDOG PUNK INDIA PALE ALE IPA 330ml 
-1x CASILLERO DEL DIABLO SAUVIGNON BLANC 75cl 
-1x COBRA EXTRA SMOOTH PREMIUM BEER 12x330ml 
-1x GOOSE ISLAND VARIETY PACK 8x355ml
-1x HEINEKEN PREMIUM IMPORTED LAGER CHILLED TO YOUR DOOR 12x330ml
-1x KRONENBOURG 1664 20x275ml
-1x LAVERSTOKE ORGANIC LAGER 330ml 
-1x MARSTONS GOLDEN ALES SELECTION 6x500ml 
-1x MEANTIME LONDON PALE ALE 6x330ml
-1x PERONI NASTRO AZZURRO CHILLED TO YOUR DOOR 18x330ml
-1x PILSNER URQUELL 4x330ml
-1x SAM ADAMS BOSTON LAGER 330ml
-1x ST. MUNGO LAGER 330ml
-1x STELLA ARTOIS LAGER 20x284ml
+3 x ABBAZIA PROSECCO EXTRA DRY NV 75cl (£6.49/ EACH)
+2 x BECK'S BEER BOTTLES 20x275ml (£12.50/EACH) 
+1 x BIRRA MORETTI 4x330ml
+2 x BREWDOG 5AM SAINT 330ml (£1.80/EACH) 
+2 x BREWDOG DEAD PONY CLUB 330ml (£1.80/EACH) 
+2 x BREWDOG JET BLACK HEART 330ml (£1.80/EACH)
+2 x BREWDOG PUNK INDIA PALE ALE IPA 330ml (£1.80/ EACH)
+3 x CAMDEN GENTLEMAN'S WIT 330ml (£1.67/EACH) 
+3 x CAMDEN HELLS LAGER 330ml (£1.67/EACH) 
+1 x CAMDEN HELLS LAGER 4x330ml
+3 x CAMDEN PALE ALE 330ml (£1.67/EACH)
+3 x CAMDEN PILS LAGER 330ml (£1.67/EACH) 
+2 x FRONTIER CRAFT LAGER 330ml (£1.79/EACH) 
+2 x GRIMBERGEN BLONDE BELGIAN BEER 330ml (£1.89/EACH)
+2 x LAGUNITAS IPA 355ml (£1.80/EACH)
+1 x LEFFE BLONDE 4x330ml
+2 x MEANTIME LONDON IPA 330ml (£1.99/EACH) 
+3 x MEANTIME LONDON LAGER 330ml (£1.80/EACH) 
+3 x MEANTIME LONDON PALE ALE 330ml (£1.80/EACH) 
+1 x PILSNER URQUELL 4x330ml
+3 x SAM ADAMS BOSTON LAGER 330ml (£1.67/EACH) 
+1 x STELLA ARTOIS LAGER 20x284ml
 ```
 
 ## Video 
